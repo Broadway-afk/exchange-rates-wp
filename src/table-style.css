@@ -1,0 +1,10 @@
+.rate_table {
+    border: 2px solid;
+}
+.rate_table tr:first-child {
+    background-color: #23282d;
+    color: white;
+}
+.rate_table td {
+    padding: 8px;
+}
